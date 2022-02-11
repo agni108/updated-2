@@ -1,0 +1,17 @@
+img{
+    border-radius: 50px;
+}
+body{
+    background-image:url(BI.jpg);
+}
+table{
+    align: center;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+ form {
+border-spacing: 30px;
+ }
